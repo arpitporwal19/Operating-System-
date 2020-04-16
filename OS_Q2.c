@@ -49,7 +49,8 @@ int main()
 		}
 	}
 	printf("---------------------------------------------");
-	printf("\nStudent\t\tGifts\t\tArrvial time");
+	printf("\nStudent\t\tGifts\t\tArrvial time\n");
+	printf("---------------------------------------------");
 	for(x=0;x<10;x++)
 	{
 		printf("\n%d\t\t%d\t\t%d",y[x],gift[x],ytime[x]);
